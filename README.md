@@ -35,9 +35,9 @@ Teu  objetivo édesenvolver  todas  as  interfaces,  em  HTML.  Não  há  neces
 
 * É importante destacar que as funções de busca, edição e exclusão de registros não foram desenvolvidas e não possuem vínculo com um back-end e nem uma base de dados. O objetivo principal foi a criação das interfaces em HTML, as transições das telas feitas com react, e também a aplicação dos estilos em cascata por meio da biblioteca materialize, se atentando também ao layout responsivo (mobile).
 
-* Diferentemente da ATVII, para a construção deste projeto, foram utilizados componentes de função e os hooks. Hooks são funções que permitem a você “ligar-se” aos recursos de state e ciclo de vida do React a partir de componentes funcionais. Hooks não funcionam dentro de classes — eles permitem que você use React sem classes. Nesta atividade utilizei os hooks useState e useEffect.
-
 ### Layout Mobile
 
 ![image](https://user-images.githubusercontent.com/30990193/233852688-1c0202e9-8e11-44a8-ae18-2da178c8739f.png)
+
+* Diferentemente da ATVII, para a construção deste projeto, foram utilizados componentes de função e os hooks. Hooks são funções que permitem a você “ligar-se” aos recursos de state e ciclo de vida do React a partir de componentes funcionais. Hooks não funcionam dentro de classes — eles permitem que você use React sem classes. Nesta atividade utilizei os hooks useState e useEffect.
 
